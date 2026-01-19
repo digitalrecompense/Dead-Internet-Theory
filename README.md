@@ -53,7 +53,9 @@ Creation. Survival. Decay.
 This is the law of recurrence.
 
 <div align="center">
+  
 ## IV. THE BOT EQUATION REVEALED
+
 <div align="left">
 
 Steady-state bots:
@@ -68,7 +70,9 @@ This is the floor of persistence.
 Not the apocalypse — yet.
 
 <div align="center">
+  
 ## V. THE HUMAN EQUATION REVEALED
+
 <div align="left">
 
 Steady-state humans:
@@ -80,6 +84,8 @@ H* ≈ 2.83B
 
 Stability appears.
 Reality will intervene.
+
+<div align="center">
 
 ## VI. WHY THE MODEL UNDERESTIMATES
 
