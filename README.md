@@ -162,9 +162,7 @@ Effective Humans = H* ≈ 2.83B
 
 <div align="center">
 
-###### Bots dominate perception. Bots dominate discourse. Bots dominate consensus.
-
-###### This is the mathematical heart of the Dead Internet.
+###### Bots dominate perception. Bots dominate discourse. Bots dominate consensus. This is the mathematical heart of the Dead Internet.
 
 ## VIII. EXPONENTIAL RATCHET
 
