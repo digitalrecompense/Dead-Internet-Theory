@@ -47,8 +47,6 @@ Yet the exponential is relentless.
 
 ## III. RECURRENCE OF LIFE AND AUTOMATION
 
-  <div align="left">
-
 B(t+1) = s · B(t) + Nᵦ
 H(t+1) = (1 − dₕ) · H(t) + Nₕ
 
