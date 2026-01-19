@@ -20,9 +20,9 @@ s — bot survival fraction per cycle (conservative 20%)
 dₕ — human attrition fraction per cycle (10–15%)
 
 <div align="center">
-All entities exist only as H or B.
-No entity may be both.
-The system is dual. The system is absolute.
+### All entities exist only as H or B.
+### No entity may be both.
+### The system is dual. The system is absolute.
 
 
 ## II. EMPIRICAL ASSUMPTIONS
