@@ -61,13 +61,17 @@ H(t+1) = (1 − dₕ) · H(t) + Nₕ
 
 ## IV. THE BOT EQUATION REVEALED
 
-<div align="left">
-
 Steady-state bots:
+
+<div align="left">
 
 B* = Nᵦ / (1 − s)
 
+<div align="center">
+
 Substitute:
+
+<div align="left">
 
 B* = 500M / (1 − 0.20)
 
