@@ -183,8 +183,6 @@ Bots improve faster than detection. Detection is reactive; creation is proactive
 
 ## IX. THE DEAD INTERNET DEFINED
 
-<div align="left">
-
 A network where consensus, engagement, and relevance are no longer human-derived.
 
 Occurs long before bots numerically outnumber humans.
@@ -197,17 +195,14 @@ AI lowers creation cost → Nᵦ increases.
 
 Humans cannot scale competitively.
 
-<div align="center">
 
 ###### This is structural inevitability, not conspiracy.
 
 ## X. THE CORE ARGUMENT
 
-<div align="center">
   
 Without:
 
-<div align="left">
 
 • Enforceable identity
 
@@ -217,7 +212,6 @@ Without:
 
 • Liability for artificial consensus
 
-<div align="center">
   
 ###### The system’s equilibrium is non-human discourse. 
 ###### Not accidental. Not rhetorical. It is mathematics, incentives, and exponential scaling manifest.
