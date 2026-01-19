@@ -11,9 +11,11 @@ This is the theoretical mathematical thesis created and presented by me with con
 <div align="left">
 
 H(t) — genuine human-controlled accounts at cycle t
+
 B(t) — bot / automated / pseudo-automated accounts at cycle t
 
 Nₕ — new human accounts per cycle
+
 Nᵦ — new bot accounts per cycle
 
 s — bot survival fraction per cycle (conservative 20%)
