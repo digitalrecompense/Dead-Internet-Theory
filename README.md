@@ -191,11 +191,11 @@ Occurs long before bots numerically outnumber humans.
 
 Survival of 20% per cycle guarantees convergence:
 
-Creation × survival exceeds removal
+Creation × survival exceeds removal.
 
-AI lowers creation cost → Nᵦ increases
+AI lowers creation cost → Nᵦ increases.
 
-Humans cannot scale competitively
+Humans cannot scale competitively.
 
 <div align="center">
 
