@@ -7,7 +7,7 @@
 This is the theoretical mathematical thesis created and presented by me with concern for the "dead internet" theory.
 
 # 🜛
-# I. THE SYSTEM OF ENTITIES
+## I. THE SYSTEM OF ENTITIES
 <div align="left">
 
 H(t) — genuine human-controlled accounts at cycle t
