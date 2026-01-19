@@ -10,6 +10,8 @@ THE DEAD INTERNET PROOF SKETCH
 
 I. THE SYSTEM OF ENTITIES
 
+<div align="left">
+
 H(t) — genuine human-controlled accounts at cycle t
 B(t) — bot / automated / pseudo-automated accounts at cycle t
 
@@ -22,6 +24,7 @@ dₕ — human attrition fraction per cycle (10–15%)
 All entities exist only as H or B.
 No entity may be both.
 The system is dual. The system is absolute.
+<div align="center">
 
 ## II. EMPIRICAL ASSUMPTIONS
 
