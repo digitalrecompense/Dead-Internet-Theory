@@ -147,19 +147,23 @@ Humans:
 E = engagement per account
 
 Humans = 1 unit
+
 Bots = k units, k ≥ 10
 
+
 Effective presence:
+
 Effective Bots = k · B* = 10 × 625M = 6.25B
+
 Effective Humans = H* ≈ 2.83B
+
+<div align="center">
 
 ###### Bots dominate perception.
 ###### Bots dominate discourse.
 ###### Bots dominate consensus.
 
 ###### This is the mathematical heart of the Dead Internet.
-
-<div align="center">
 
 ## VIII. EXPONENTIAL RATCHET
 
