@@ -9,7 +9,6 @@ This is the theoretical mathematical thesis created and presented by me with con
 THE DEAD INTERNET PROOF SKETCH
 
 I. THE SYSTEM OF ENTITIES
-
 <div align="left">
 
 H(t) — genuine human-controlled accounts at cycle t
@@ -28,7 +27,6 @@ The system is dual. The system is absolute.
 
 
 ## II. EMPIRICAL ASSUMPTIONS
-
 <div align="left">
 
 Total new accounts per cycle ≈ 840M
@@ -42,8 +40,8 @@ Human attrition dₕ ≈ 0.12
 These assumptions favor human persistence.
 Yet the exponential is relentless.
 
+<div align="center">
 ## III. RECURRENCE OF LIFE AND AUTOMATION
-
 <div align="left">
 
 B(t+1) = s · B(t) + Nᵦ
@@ -52,8 +50,8 @@ H(t+1) = (1 − dₕ) · H(t) + Nₕ
 Creation. Survival. Decay.
 This is the law of recurrence.
 
+<div align="center">
 ## IV. THE BOT EQUATION REVEALED
-
 <div align="left">
 
 Steady-state bots:
@@ -67,8 +65,8 @@ B* = 625M
 This is the floor of persistence.
 Not the apocalypse — yet.
 
+<div align="center">
 ## V. THE HUMAN EQUATION REVEALED
-
 <div align="left">
 
 Steady-state humans:
