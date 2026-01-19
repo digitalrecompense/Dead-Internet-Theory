@@ -144,14 +144,14 @@ Humans:
 
 <div align="left">
   
-E = engagement per account
+### E = engagement per account
 
-Humans = 1 unit
+#### Humans = 1 unit
 
-Bots = k units, k ≥ 10
+#### Bots = k units, k ≥ 10
 
 
-Effective presence:
+### Effective presence:
 
 Effective Bots = k · B* = 10 × 625M = 6.25B
 
