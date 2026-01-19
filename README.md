@@ -40,10 +40,10 @@ Nₕ ≈ 340M
 Bot survival s = 0.20
 Human attrition dₕ ≈ 0.12
 
+<div align="center">
+
 These assumptions favor human persistence.
 Yet the exponential is relentless.
-
-<div align="center">
 
 ## III. RECURRENCE OF LIFE AND AUTOMATION
 
@@ -52,27 +52,31 @@ Yet the exponential is relentless.
 B(t+1) = s · B(t) + Nᵦ
 H(t+1) = (1 − dₕ) · H(t) + Nₕ
 
+<div align="center">
+
 Creation. Survival. Decay.
 This is the law of recurrence.
 
-<div align="center">
-  
 ## IV. THE BOT EQUATION REVEALED
 
 <div align="left">
 
 Steady-state bots:
+
 B* = Nᵦ / (1 − s)
 
 Substitute:
+
 B* = 500M / (1 − 0.20)
+
 B* = 500M / 0.8
+
 B* = 625M
+
+<div align="center">
 
 This is the floor of persistence.
 Not the apocalypse — yet.
-
-<div align="center">
   
 ## V. THE HUMAN EQUATION REVEALED
 
