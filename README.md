@@ -216,6 +216,8 @@ Without:
   
 ###### The system’s equilibrium is non-human discourse. Not accidental. Not rhetorical. It is mathematics, incentives, and exponential scaling manifest.
 
+#
+
 # The Internet is Dead
 
 ###### By: Robert R. P., 
