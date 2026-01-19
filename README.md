@@ -9,7 +9,7 @@ This is the theoretical mathematical thesis created and presented by me with con
 
 <br>
 <br>
-⚛ THE DEAD INTERNET PROOF SKETCH ⚛
+# ⚛ THE DEAD INTERNET PROOF SKETCH ⚛
 I. THE SYSTEM OF ENTITIES
 
 H(t) — genuine human-controlled accounts at cycle t
@@ -25,7 +25,7 @@ All entities exist only as H or B.
 No entity may be both.
 The system is dual. The system is absolute.
 
-II. EMPIRICAL ASSUMPTIONS
+## II. EMPIRICAL ASSUMPTIONS
 
 Total new accounts per cycle ≈ 840M
 Bots at creation ≈ 60%
@@ -38,7 +38,7 @@ Human attrition dₕ ≈ 0.12
 These assumptions favor human persistence.
 Yet the exponential is relentless.
 
-III. RECURRENCE OF LIFE AND AUTOMATION
+## III. RECURRENCE OF LIFE AND AUTOMATION
 
 B(t+1) = s · B(t) + Nᵦ
 H(t+1) = (1 − dₕ) · H(t) + Nₕ
@@ -46,7 +46,7 @@ H(t+1) = (1 − dₕ) · H(t) + Nₕ
 Creation. Survival. Decay.
 This is the law of recurrence.
 
-IV. THE BOT EQUATION REVEALED
+## IV. THE BOT EQUATION REVEALED
 
 Steady-state bots:
 B* = Nᵦ / (1 − s)
@@ -59,7 +59,7 @@ B* = 625M
 This is the floor of persistence.
 Not the apocalypse — yet.
 
-V. THE HUMAN EQUATION REVEALED
+## V. THE HUMAN EQUATION REVEALED
 
 Steady-state humans:
 H* = Nₕ / dₕ
@@ -71,7 +71,7 @@ H* ≈ 2.83B
 Stability appears.
 Reality will intervene.
 
-VI. WHY THE MODEL UNDERESTIMATES
+## VI. WHY THE MODEL UNDERESTIMATES
 
 Bots:
 • Generate exponential content
@@ -89,7 +89,7 @@ Humans:
 Numerical parity is irrelevant.
 Engagement is everything.
 
-VII. ENGAGEMENT DOMINANCE
+## VII. ENGAGEMENT DOMINANCE
 
 E = engagement per account
 
@@ -106,7 +106,7 @@ Bots dominate consensus.
 
 This is the mathematical heart of the Dead Internet.
 
-VIII. EXPONENTIAL RATCHET
+## VIII. EXPONENTIAL RATCHET
 
 Bots improve faster than detection
 Detection is reactive; creation is proactive
@@ -119,7 +119,7 @@ The system ratchets forward.
 Once bots dominate attention, humans behave as if bots are real.
 The illusion feeds itself.
 
-IX. THE DEAD INTERNET DEFINED
+## IX. THE DEAD INTERNET DEFINED
 
 A network where consensus, engagement, and relevance are no longer human-derived.
 
@@ -132,7 +132,7 @@ Humans cannot scale competitively
 
 This is structural inevitability, not conspiracy.
 
-X. THE CORE ARGUMENT
+## X. THE CORE ARGUMENT
 
 Without:
 • Enforceable identity
