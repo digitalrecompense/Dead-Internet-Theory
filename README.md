@@ -40,9 +40,11 @@ Nᵦ ≈ 500M
 
 Nₕ ≈ 340M
 
-Bot survival s = 0.20
+Bot survival
+s = 0.20
 
-Human attrition dₕ ≈ 0.12
+Human attrition
+dₕ ≈ 0.12
 
 <div align="center">
 
