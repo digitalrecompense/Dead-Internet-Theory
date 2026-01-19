@@ -7,7 +7,7 @@ This is the theoretical mathematical thesis created and presented by me with con
 
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/91a606e5-7a00-4bfb-ac7c-443743f8508a" />
 
-
+<br>
 ⚛ THE DEAD INTERNET PROOF SKETCH ⚛
 I. THE SYSTEM OF ENTITIES
 
