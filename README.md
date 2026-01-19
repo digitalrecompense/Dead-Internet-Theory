@@ -17,6 +17,7 @@ Nₕ — new human accounts per cycle
 Nᵦ — new bot accounts per cycle
 
 s — bot survival fraction per cycle (conservative 20%)
+
 dₕ — human attrition fraction per cycle (10–15%)
 
 <div align="center">
