@@ -177,7 +177,9 @@ Bots improve faster than detection. Detection is reactive; creation is proactive
 ###### The system ratchets forward. Once bots dominate attention, humans behave as if bots are real. The illusion feeds itself.
 
 ## IX. THE DEAD INTERNET DEFINED
-  
+
+<div align="left">
+
 A network where consensus, engagement, and relevance are no longer human-derived.
 
 Occurs long before bots numerically outnumber humans.
@@ -189,6 +191,8 @@ Creation × survival exceeds removal
 AI lowers creation cost → Nᵦ increases
 
 Humans cannot scale competitively
+
+<div align="center">
 
 ###### This is structural inevitability, not conspiracy.
 
