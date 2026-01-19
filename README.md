@@ -172,9 +172,9 @@ Bots improve faster than detection. Detection is reactive; creation is proactive
 
 <div align="center">
 
-No law demands transparency.
-No law caps automation.
-No law enforces identity.
+## No law demands transparency.
+## No law caps automation.
+## No law enforces identity.
 
 ###### The system ratchets forward. Once bots dominate attention, humans behave as if bots are real. The illusion feeds itself.
 
