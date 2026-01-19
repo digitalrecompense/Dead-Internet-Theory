@@ -40,6 +40,7 @@ Nᵦ ≈ 500M
 Nₕ ≈ 340M
 
 Bot survival s = 0.20
+
 Human attrition dₕ ≈ 0.12
 
 <div align="center">
@@ -49,6 +50,7 @@ Human attrition dₕ ≈ 0.12
 ## III. RECURRENCE OF LIFE AND AUTOMATION
 
 B(t+1) = s · B(t) + Nᵦ
+
 H(t+1) = (1 − dₕ) · H(t) + Nₕ
 
 <div align="center">
@@ -80,10 +82,14 @@ B* = 625M
 <div align="left">
 
 Steady-state humans:
+
 H* = Nₕ / dₕ
 
+
 Substitute:
+
 H* = 340M / 0.12
+
 H* ≈ 2.83B
 
 ###### Stability appears. Reality will intervene.
