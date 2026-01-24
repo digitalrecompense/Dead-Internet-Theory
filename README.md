@@ -268,7 +268,7 @@ Here is a **clear, sourced list of facts and estimates about bot accounts and au
 * **Bots exist in measurable numbers** across major platforms. (Fact) ([Factcheck][1])
 * **Quantitative estimates vary widely** depending on detection methods, platform definitions, and sampling strategies. (Analytical observation) ([SpringerLink][3])
 * **Small percentages of accounts can generate disproportionate activity**, especially in comment threads. (Empirical finding) ([Factcheck][1])
-* **Social media platforms actively remove artificial engagement**, indicating acknowledgment of bot activity even if exact account estimates aren’t public. (Operational evidence) ([Nature][8])
+* **Social media platforms allegedly actively remove artificial engagement**, indicating acknowledgment of bot activity even if exact account estimates aren’t public. (Operational evidence) ([Nature][8])
 * **Public perception of bot prevalence often exceeds official claims**, showing both uncertainty and societal awareness. (Survey insight) ([Nature][6])
 
 ---
